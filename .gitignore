@@ -1,0 +1,10 @@
+.env
+db.sql
+PALive.zip
+style.css.bak
+tasks/event-search.md.bak
+src/helpers.php.bak
+src/helpers.php.bak2
+
+old/
+var/
