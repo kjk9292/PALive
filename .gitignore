@@ -8,3 +8,11 @@ src/helpers.php.bak2
 
 old/
 var/
+
+# Playwright
+node_modules/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/playwright/.auth/

@@ -1,0 +1,22 @@
+{
+  "name": "html",
+  "version": "1.0.0",
+  "description": "Tracking everything going in Palo Alto, CA",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kjk9292/PALive.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kjk9292/PALive/issues"
+  },
+  "homepage": "https://github.com/kjk9292/PALive#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.61.1",
+    "@types/node": "^26.1.1"
+  }
+}
